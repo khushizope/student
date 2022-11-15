@@ -1,4 +1,5 @@
 //Declare the solidity Version
+// SPDX-License-Identifier: MIT
 pragma solidity >= 0.4.26; 
 // Solidity program to implement
 // the above approach
